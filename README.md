@@ -1,1 +1,6 @@
 # Intro-to-Machine-Learning
+This project is centered around the application of custom linear and logistic regression models to a diverse range of datasets. Notably, it does not rely on pre-built models provided by the scikit-learn library or other external sources. Instead, the project involves the development of these regression models from the ground up. The primary aim is to achieve a comprehensive understanding of the intricacies involved in the functioning of these models.
+
+Linear regression, a fundamental technique in statistics and machine learning, is implemented without resorting to the use of readily available models, allowing for complete customization and fine-tuning to suit the specific characteristics of each dataset. Similarly, logistic regression, commonly employed in classification tasks, is also constructed from scratch.
+
+By adopting this approach, the project emphasizes the importance of hands-on experience in building and refining regression models. Through this process, the project aims to provide a detailed exploration of the underlying mathematics, optimization techniques, and model evaluation methods, offering a valuable educational resource for those seeking a deeper understanding of regression analysis. This  
